@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+selenium
+pandas
+fake-useragent
+spacy
+flask
